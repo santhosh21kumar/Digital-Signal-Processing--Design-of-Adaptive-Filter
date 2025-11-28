@@ -72,4 +72,5 @@ title('Error Signal');
 <img width="953" height="710" alt="Screenshot 2025-11-21 132253" src="https://github.com/user-attachments/assets/da974afd-e577-4891-a883-5c4199b774bf" />
 
 ## RESULT:
-<img width="682" height="248" alt="image" src="https://github.com/user-attachments/assets/addfb648-5766-45f6-85e0-a2ef5508390d" />
+![WhatsApp Image 2025-11-28 at 22 37 50_3e6d1a7a](https://github.com/user-attachments/assets/e149b5bc-d54b-4525-9c68-cc93a069611e)
+
